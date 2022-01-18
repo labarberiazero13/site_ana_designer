@@ -129,16 +129,20 @@ a{
         position: absolute;
         top: 0;
         right: 0;
-        width: 60%;
+        width: 0;
         height: 100vh;
         background-color: var(--main-color);
         font-size: var(--h2-font-size);
         text-align: center;
         text-transform: capitalize;
         padding-top: var(--header-height);
+        transition: all 400ms ease-in-out;
     }
     .nav_item{
         padding: 15px 0;
+    }
+    .show-menu{
+        width: 60%;
     }
 }
 
