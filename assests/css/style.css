@@ -168,6 +168,7 @@ a{
     width: 100%;
 }
 
-.nav_link:hover{
+.nav_link:hover,
+.nav_link.active-link{
     color: var(--first-color);
 }
