@@ -30,3 +30,12 @@ function colorLink() {
 }
 
 linkColor.forEach(L=> L.addEventListener('click', colorLink))
+
+/*mudando a cor do header*/
+function scrollHeader(){
+    const scrollHeader = document.getElementById('header')
+    if(this.scrollY >= 100) scrollHeader.classList.add('scroll-header');
+    else scrollHeader.classList.remove('scroll-header')
+}
+
+window.addEventListener('scroll', scrollHeader)

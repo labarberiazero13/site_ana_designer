@@ -586,6 +586,9 @@ a{
         transition: all 400ms ease;
         position: relative;
     }
+    .scroll-header{
+        background-color: var(--white-color);
+    }
     .footer_list{
         grid-template-columns: repeat(4,1fr);
     }
