@@ -27,6 +27,7 @@ O Projeto está responsivo, em todos os modelos.
 
 * O desenvolvimento foi feito um desafio para mim, pelo fato de ter sido meu primeiro projeto totalmente independente, fico grato pelo resultado
 
+* Acesse o site por aqui -> https://lucasgarcia561.github.io/site_ana_designer/
 
 ---
 ⌨️ com ❤️ por [Lucas Garcia](https://github.com/lucasgarcia561) 😊
